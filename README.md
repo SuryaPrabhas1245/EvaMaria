@@ -65,7 +65,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/suryaprabhas1245/evamaria
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -102,11 +102,11 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Support-30302f?style=flat&logo=telegram)](https://telegram.dog/suryaprabhas1245)
+[![telegram badge](https://img.shields.io/badge/Support-30302f?style=flat&logo=telegram)](https://telegram.dog/suryaprabhas)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeluguDubbedHorrorMovies2)
 
 ## Credits 
-* [![Surya Prabhas](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/SuryaPrabhas1245)
+* [![Surya Prabhas](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/SuryaPrabhas)
 
 
 ## Thanks to 
