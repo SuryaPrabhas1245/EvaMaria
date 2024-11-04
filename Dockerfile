@@ -5,6 +5,6 @@ WORKDIR /app
 COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt
 
-COPY . .
+COPY . .  # This will copy all files, including script.py
 
-CMD ["python", "main.py"]
+CMD ["python", "script.py"]
